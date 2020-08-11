@@ -1,0 +1,32 @@
+Full Listing Basic
+ [x] Listing basic returns id
+ [x] Listing basic returns title
+ [x] Listing basic returns website
+ [x] Listing basic returns email
+ [x] Listing basic returns twitter
+ [x] Listing basic returns full array
+
+Listing Basic
+ [x] Listing basic must receive data
+ [x] Listing basic must contain id
+ [x] Listing basic must contain title
+ [x] Listing basic minimum object is created
+ [x] Listing basic get status returns basic
+ [x] Listing basic sets status correctly
+ [x] Listing basic sets status correctly when empty
+ [x] Listing basic sets website to null when empty
+
+Listing Featured
+ [x] Listing featured returns status featured
+ [x] Listing featured returns coc
+
+Listing Image
+ [x] No image
+ [x] Full path image
+ [x] Build path image
+
+Listing Premium
+ [x] Listing premium returns status premium
+ [x] Listing premium returns description
+ [x] Listing premium displays allowed tags
+
